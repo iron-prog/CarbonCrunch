@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (don't upload dataset)
+data/
+
+# Outputs (generated files)
+output/
+
+# OS
+.DS_Store
+
+# Env
+.env
